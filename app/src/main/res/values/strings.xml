@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SENSORS</string>
+    <string name="str_enable">Enable Sensor</string>
+    <string name="str_dial_number">Emergency Dial Number</string>
+    <string name="str_button_settings">Settings</string>
+    <string name="str_text">Shake the Mobile Thrice \n to Dial the \n Emergency Number
+                            \n stored in Settings</string>
+</resources>

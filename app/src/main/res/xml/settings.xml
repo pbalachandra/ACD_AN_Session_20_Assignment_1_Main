@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Sensor Settings" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefEnableSensor"
+            android:title="@string/str_enable"
+            >
+        </CheckBoxPreference>
+
+        <EditTextPreference
+            android:title="@string/str_dial_number"
+            android:inputType="number"
+            android:key="prefDialNumber"/>
+    </PreferenceCategory>
+</PreferenceScreen>
